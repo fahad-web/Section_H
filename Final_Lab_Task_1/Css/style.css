@@ -1,0 +1,55 @@
+body,p,span{
+    font-family: 'Roboto', sans-serif;
+}
+h1,h2,h3,h4,h5,h6,a{
+    font-family: 'Rubik', sans-serif;
+}
+.regForm{
+    width: 500px;
+    height: 600px;
+    
+    left: 0;
+    right: 0;
+    margin: auto;
+    padding-left: 40px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    background-color: rgb(245, 245, 245);
+    box-shadow: 7px 7px 35px -4px rgba(0,0,0,0.75);
+}
+.kk{
+    margin-left: 90px;    
+    display: block;
+    margin-top: 15px;
+}
+.jj{
+    margin-left: 60px;
+    display: block;
+    margin-bottom: 8px;
+
+}
+.subbtn{
+    margin-left: 80px;
+    margin-top: 20px;
+    display: block;
+    
+}
+.btn-primary{
+    padding: 7px 100px;
+    transition: .4s;
+    
+}
+.btn-primary:hover{
+    background-color: #000000 !important;
+    color: white;
+    border-color: #000000 !important;
+}
+.silder{
+    background-image: url(hh.jpg);
+    padding: 40px 0;
+}
+.text-denger{
+    color: red;
+    font-size: 13px;
+}

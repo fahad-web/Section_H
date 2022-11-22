@@ -1,0 +1,58 @@
+body,p,span{
+    font-family: 'Roboto', sans-serif;
+}
+h1,h2,h3,h4,h5,h6,a{
+    font-family: 'Rubik', sans-serif;
+}
+.fpage{
+    width: 450px;
+    height: 375px;
+    padding-top: 20px;
+   
+    left: 0;
+    right: 0;
+    margin: auto;
+    background-color: aliceblue;
+    box-shadow: 7px 7px 35px -4px rgba(0,0,0,0.75);
+}
+.rr{
+    margin-top: -60px;
+}
+.tt{
+    margin-top: -60px;
+}
+
+.ss{
+    margin-left: 85px;
+}
+.loginpage{
+    background-image: url(hh.jpg);
+    padding: 150px 0;
+}
+.jj{
+    margin-left: 20px;
+    display: block;
+    margin-bottom: 8px;
+
+}
+.logbtn{
+    margin-left: 95px;
+    margin-top: 20px;
+    display: block;
+    margin-bottom: 20px;
+    
+}
+.btn-primary{
+    padding: 7px 100px;
+    transition: .4s;
+    
+}
+.btn-primary:hover{
+    background-color: #000000 !important;
+    color: white;
+    border-color: #000000 !important;
+}
+.text-denger{
+    color: red;
+    font-size: 13px;
+}
